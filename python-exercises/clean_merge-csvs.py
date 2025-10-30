@@ -4,7 +4,7 @@ import os
 from glob import glob
 
 # Step 1: Define the input folder
-input_folder = "data"
+input_folder = "../data"
 output_file = "output/merged_cleaned.csv"
 
 # Step 2: Create output folder if it doesn’t exist
